@@ -72,4 +72,4 @@ function feach(w) {
     }
 }
 
-console.log(textTonum("1 milyar duapuluh juta lima ratus ribu"))
+console.log(textTonum("satu milyar duapuluh juta lima ratus ribu").toLocaleString())
